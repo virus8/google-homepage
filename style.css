@@ -20,5 +20,14 @@ table {
 }
 
 .coll {
-    width: 90px;
+    width: 45px;
 }
+
+
+.navbar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  float: right;
+}
+.navbar li { display: inline; }
